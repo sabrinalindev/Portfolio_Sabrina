@@ -1,52 +1,69 @@
-- 👋 Hi, I’m @Sabrina Lin
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me-@SabrinaLDev on Twitter
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+# 👩‍💻 Sabrina Lin | Portfolio
 
-<!---
-SabrinaLinDev/SabrinaLinDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My personal portfolio website, where I share who I am, the projects I've built, and how to get in touch.
 
+## Demo
 
+Live: [site](https://sabrinalindev.netlify.app/)
 
+![Home Page](./images/projectSection.jpeg)
+
+## About the Project
+
+This site showcases my work as a web developer. It is built on the free [Editorial](https://html5up.net/editorial) template by HTML5 UP, which I customized with my own content, projects, and images.
 
 
+## Features
+
+- Toggleable sidebar with an accordion-style menu
+- Responsive layout for desktop, tablet, and mobile
+- Project cards linking to live demos and GitHub repos
 
 
+## Built With
 
+- HTML5
+- CSS3
+- JavaScript and jQuery (included with the template)
+- [Editorial](https://html5up.net/editorial) template by HTML5 UP
 
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Getting Started
 
+1. Clone the repo
+   ```bash
+   git clone https://github.com/sabrinalindev/Portfolio_Sabrina.git
+   cd Portfolio_Sabrina
+   ```
+2. Open `index.html` in your browser
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+No build step or dependencies are required.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Project Structure
 
-(* = not included)
+```
+Portfolio_Sabrina/
+├── index.html       # Home page
+├── about-me.html    # About page
+├── elements.html    # Template elements reference
+├── assets/          # CSS, JavaScript, fonts
+├── images/          # Photos and images
+└── LICENSE.txt
+```
 
-AJ
-aj@lkn.io | @ajlkn
+## What I Learned
 
+- How to customize an existing template with my own content and styling
+- How to read and modify HTML, CSS, and JavaScript written by someone else
+- How to organize and present my projects for employers
+- 【你自己的心得】
 
-Credits:
+## Credits
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- Template: [Editorial](https://html5up.net/editorial) by [HTML5 UP](https://html5up.net) (@ajlkn), licensed under [CCA 3.0](https://html5up.net/license)
+- Demo images: [Unsplash](https://unsplash.com) 
+- Icons: [Font Awesome](https://fontawesome.com)
+- Other: [jQuery](https://jquery.com), [Responsive Tools](https://github.com/ajlkn/responsive-tools)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## License
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-# Portfolio_Sabrina
+The template is distributed under the Creative Commons Attribution 3.0 License. See `LICENSE.txt` for details. My own content, text, and photos are © Sabrina Lin.
