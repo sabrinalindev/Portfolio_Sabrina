@@ -1,4 +1,4 @@
-# 👩‍💻 Sabrina Lin | Portfolio
+# Sabrina Lin | Portfolio
 
 My personal portfolio website, where I share who I am, the projects I've built, and how to get in touch.
 
