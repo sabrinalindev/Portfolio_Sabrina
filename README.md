@@ -55,7 +55,7 @@ Portfolio_Sabrina/
 - How to customize an existing template with my own content and styling
 - How to read and modify HTML, CSS, and JavaScript written by someone else
 - How to organize and present my projects for employers
-- 【你自己的心得】
+
 
 ## Credits
 
